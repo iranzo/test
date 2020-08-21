@@ -1,0 +1,8 @@
+output/
+.peru/
+plugins/
+themes/
+.history/
+*.pid
+__pycache__/
+*~
