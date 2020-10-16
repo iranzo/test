@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/iranzo/test/compare/1.1.0...1.1.1) (2020-10-16)
+
+### Bug Fixes
+
+- **update_semver.yml:** increase scope for also work on releases ([8919862](https://github.com/iranzo/test/commit/89198622588b43bcba14c6186c1d7bb6ede2f49e))
+
 # [1.1.0](https://github.com/iranzo/test/compare/1.0.1...1.1.0) (2020-10-16)
 
 ### Bug Fixes
