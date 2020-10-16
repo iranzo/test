@@ -1,3 +1,13 @@
+# [1.1.0](https://github.com/iranzo/test/compare/1.0.1...1.1.0) (2020-10-16)
+
+### Bug Fixes
+
+- **release.yml:** use cache for precommit ([b9d6492](https://github.com/iranzo/test/commit/b9d6492625328e9cf8185904f3fa20a47fe97ee3))
+
+### Features
+
+- **release.yml:** Uses cache for pip for making faster installation of pre-commit ([d73482b](https://github.com/iranzo/test/commit/d73482bd627014c0e78fa885853c17d0eaf5b013))
+
 ## [1.0.1](https://github.com/iranzo/test/compare/1.0.0...1.0.1) (2020-10-16)
 
 ### Bug Fixes
