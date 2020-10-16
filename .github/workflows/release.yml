@@ -16,7 +16,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2.3.3
 
-      - uses: actions/setup-python@v2
+      - uses: actions/setup-python@v2.0.0
+      - uses: actions/cache@v2.0.0
+        with:
+          path: |
+            ~/.cache/pre-commit
+          key: ${{ runner.os }}-precommit-${{ hashFiles('**/.pre-commit-config.yaml/*') }}
+          restore-keys: |
+            ${{ runner.os }}-precommit-
 
       - name: Install pre-commit
         run: pip install pre-commit
