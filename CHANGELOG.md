@@ -1,3 +1,9 @@
+## [1.1.9](https://github.com/iranzo/test/compare/1.1.8...1.1.9) (2020-10-18)
+
+### Bug Fixes
+
+- **release.yml:** bump cache to 2.1.2 ([5e43826](https://github.com/iranzo/test/commit/5e43826a01969c2e605a606c37b3fbfcbf4e91b8))
+
 ## [1.1.8](https://github.com/iranzo/test/compare/1.1.7...1.1.8) (2020-10-18)
 
 ### Bug Fixes
