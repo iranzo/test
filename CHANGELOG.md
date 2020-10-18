@@ -1,3 +1,9 @@
+## [1.1.4](https://github.com/iranzo/test/compare/1.1.3...1.1.4) (2020-10-18)
+
+### Bug Fixes
+
+- **README.md:** update to readme contents ([e5abe53](https://github.com/iranzo/test/commit/e5abe53f6c837c6c063a14384aa3073f7eaa049b))
+
 ## [1.1.2](https://github.com/iranzo/test/compare/1.1.1...1.1.2) (2020-10-18)
 
 ### Bug Fixes
