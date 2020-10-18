@@ -1,3 +1,9 @@
+## [1.1.5](https://github.com/iranzo/test/compare/1.1.4...1.1.5) (2020-10-18)
+
+### Bug Fixes
+
+- **update_semver.yml:** try to get tags updated on each new tag ([e4316cf](https://github.com/iranzo/test/commit/e4316cf1467c1206fb9f460a98e58dd21cbcf1a0))
+
 ## [1.1.4](https://github.com/iranzo/test/compare/1.1.3...1.1.4) (2020-10-18)
 
 ### Bug Fixes
