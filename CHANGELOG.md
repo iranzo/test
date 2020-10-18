@@ -1,3 +1,9 @@
+## [1.1.15](https://github.com/iranzo/test/compare/1.1.14...1.1.15) (2020-10-18)
+
+### Bug Fixes
+
+- **update_semver.yml:** run on new release published ([5111491](https://github.com/iranzo/test/commit/5111491976625c6fb539de174c3d99d9f9c99931))
+
 ## [1.1.14](https://github.com/iranzo/test/compare/1.1.13...1.1.14) (2020-10-18)
 
 ### Bug Fixes
