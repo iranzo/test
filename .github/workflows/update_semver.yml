@@ -1,6 +1,6 @@
 name: Update Semver
 on:
-  push:
+  create:
     tags:
       - '*.*.*'
 jobs:
