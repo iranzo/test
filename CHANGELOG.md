@@ -1,3 +1,9 @@
+## [1.1.8](https://github.com/iranzo/test/compare/1.1.7...1.1.8) (2020-10-18)
+
+### Bug Fixes
+
+- **update_semver.yml:** work on pushed tags ([dc7460c](https://github.com/iranzo/test/commit/dc7460cc1256eb24caf72c5674edd27d3bdef946))
+
 ## [1.1.7](https://github.com/iranzo/test/compare/1.1.6...1.1.7) (2020-10-18)
 
 ### Bug Fixes
