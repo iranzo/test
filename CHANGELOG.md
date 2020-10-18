@@ -1,3 +1,9 @@
+## [1.1.7](https://github.com/iranzo/test/compare/1.1.6...1.1.7) (2020-10-18)
+
+### Bug Fixes
+
+- **update_semver.yml:** try to use on create instead of push ([e612556](https://github.com/iranzo/test/commit/e612556ed8c496605f7ec80cde3e5436d228d05f))
+
 ## [1.1.6](https://github.com/iranzo/test/compare/1.1.5...1.1.6) (2020-10-18)
 
 ### Bug Fixes
