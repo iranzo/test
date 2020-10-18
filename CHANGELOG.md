@@ -1,3 +1,9 @@
+## [1.1.2](https://github.com/iranzo/test/compare/1.1.1...1.1.2) (2020-10-18)
+
+### Bug Fixes
+
+- **update_semver.yml:** try to fix the release publish triggering minor tags to be updated ([c2fd4ac](https://github.com/iranzo/test/commit/c2fd4ac456d43c5195fb31123c8e70173a59aa59))
+
 ## [1.1.1](https://github.com/iranzo/test/compare/1.1.0...1.1.1) (2020-10-16)
 
 ### Bug Fixes
