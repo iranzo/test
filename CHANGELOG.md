@@ -1,3 +1,9 @@
+## [1.1.6](https://github.com/iranzo/test/compare/1.1.5...1.1.6) (2020-10-18)
+
+### Bug Fixes
+
+- **README.md:** improve project description ([2a4ebd6](https://github.com/iranzo/test/commit/2a4ebd6b812c3f2c1d6ec5a5000d1f6ef51c78c3))
+
 ## [1.1.5](https://github.com/iranzo/test/compare/1.1.4...1.1.5) (2020-10-18)
 
 ### Bug Fixes
