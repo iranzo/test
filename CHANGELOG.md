@@ -1,3 +1,9 @@
+## [1.1.12](https://github.com/iranzo/test/compare/1.1.11...1.1.12) (2020-10-18)
+
+### Bug Fixes
+
+- **release.yml:** do not push to v\$(major) ([4d56a66](https://github.com/iranzo/test/commit/4d56a66a03109bf0f8f033a4dcdf369f785fc739))
+
 ## [1.1.11](https://github.com/iranzo/test/compare/1.1.10...1.1.11) (2020-10-18)
 
 ### Reverts
