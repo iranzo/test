@@ -1,3 +1,9 @@
+## [1.1.14](https://github.com/iranzo/test/compare/1.1.13...1.1.14) (2020-10-18)
+
+### Bug Fixes
+
+- **release.yml:** use PAT to trigger new workflow run ([d6b99dd](https://github.com/iranzo/test/commit/d6b99ddb92f4e81838e14952dcfb3d90727ae7c5))
+
 ## [1.1.13](https://github.com/iranzo/test/compare/1.1.12...1.1.13) (2020-10-18)
 
 ### Bug Fixes
