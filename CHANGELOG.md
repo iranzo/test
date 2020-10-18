@@ -1,3 +1,9 @@
+## [1.1.11](https://github.com/iranzo/test/compare/1.1.10...1.1.11) (2020-10-18)
+
+### Reverts
+
+- Revert "fix(release.yml): use PAT for push of changes to trigger workflow run" ([2d7596a](https://github.com/iranzo/test/commit/2d7596a18757adc5433d243159553d3818a5532a))
+
 ## [1.1.10](https://github.com/iranzo/test/compare/1.1.9...1.1.10) (2020-10-18)
 
 ### Bug Fixes
