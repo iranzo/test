@@ -1,3 +1,9 @@
+## [1.1.13](https://github.com/iranzo/test/compare/1.1.12...1.1.13) (2020-10-18)
+
+### Bug Fixes
+
+- **release.yml:** do not create new branch for the changes ([7909358](https://github.com/iranzo/test/commit/7909358d40d73cdfe496cc723647710453b9f33e))
+
 ## [1.1.12](https://github.com/iranzo/test/compare/1.1.11...1.1.12) (2020-10-18)
 
 ### Bug Fixes
