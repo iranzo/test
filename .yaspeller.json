@@ -4,5 +4,5 @@
   "maxRequests": 5,
   "ignoreDigits": true,
   "lang": "en",
-  "dictionary": ["yml", "md", "precommit", "semver"]
+  "dictionary": ["yml", "md", "precommit", "semver", "GHA", "autofix"]
 }
