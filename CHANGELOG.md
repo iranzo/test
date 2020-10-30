@@ -1,3 +1,9 @@
+# [1.2.0](https://github.com/iranzo/test/compare/1.1.15...1.2.0) (2020-10-30)
+
+### Features
+
+- **pre-commit.yml:** use GHA token for autofix of commits ([1d09d6e](https://github.com/iranzo/test/commit/1d09d6e582f0e8833f4949b7ec34e7b60d809f77))
+
 ## [1.1.15](https://github.com/iranzo/test/compare/1.1.14...1.1.15) (2020-10-18)
 
 ### Bug Fixes
